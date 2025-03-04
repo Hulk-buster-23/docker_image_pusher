@@ -1,4 +1,1 @@
-alpine
-kasmweb/NGINX:1.25.3
-python:alpine3.19
 infiniflow/ragflow:nightly-slim
